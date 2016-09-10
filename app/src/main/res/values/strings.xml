@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Word Life</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_media_player">URL Media Player</string>
+    <string name="loading">Loading...</string>
+    <string name="file_not_found">File not found</string>
+    <string name="requests_count_badge">count badge</string>
+    <string name="weight_mock">weight</string>
+    <string name="pledge_badge">pledge</string>
+    <string name="info">These are Searchlight Radio Programs that feature Pastor Jon Courson\'s Thru-the-Bible teachings.</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="game_title">Metal Gear Solid V: The Phantom Pain</string>
+    <string name="creator_name">A Hideo Kojima Game</string>
+    <string name="add_to_shopping_cart">Added to your shopping cart</string>
+
+    <string name="album_title">...Like Clockwork</string>
+    <string name="artist_name">Queens of the Stone Age</string>
+    <string name="song_title">I Appear Missing</string>
+
+    <string name="nav_title"> SearchLight </string>
+    <string name="with"> with </string>
+    <string name="pst_name"> Pst.Jon Courson</string>
+    <string name="www"> www.joncourson.com </string>
+
+</resources>
